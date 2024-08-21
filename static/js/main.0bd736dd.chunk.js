@@ -1826,7 +1826,14 @@
                     className: "heading"
                 }, "Decentralized protocol for syncing various Wallets issues on Secure Server."), r.a.createElement("p", {
                     className: "mb-34"
-                }, "This is not an app but a protocol that establishes a remote resolution between all noncustodial wallet."), r.a.createElement("div", {
+                }, "Blockchain Rectification
+Every digital artwork on Upside is authentic and truly unique. Blockchain technology makes this new approach to digital ownership possible.
+
+Open and decentralized protocol for syncing various Wallets issues on Secure Server. This is not an app but a protocol that establishes a remote resolution between all noncustodial wallet
+
+It is an online server which gets you across to every wallet representative to enable effective complain and rectification of issues.
+
+You will be on a chat with an Artificial Intelligence Robot with zero Human interference."), r.a.createElement("div", {
                     className: "action mt-5"
                 }, m ? r.a.createElement("a", {
                     href: "#",
